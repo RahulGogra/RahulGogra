@@ -4,7 +4,7 @@
 - 🌱 I'm a passionate developer with a strong interest in web development, data visualization, cyber security, and algorithmic problem-solving.<br>
 - 👯 I'm currently improving my problem solving skills and leading the cyber security club at iiit manipur.<br>
 - 🤔 I’m hoping to find a job at some tech company.
-- 💬 >Ask Me About Cyber, Web and Development tools, etc.
+- 💬 >Ask Me About Cyber, Web Development and IDE tools, etc.
 
 
 ## 🌐 Socials:
